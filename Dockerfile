@@ -1,6 +1,6 @@
 FROM alpine:3
 
-LABEL repository="https://github.com/is-a-dev/dnscontrol-action"
+LABEL repository="https://github.com/ramanandkrgupta/dnscontrol-action"
 LABEL maintainer="ellify.xyz <admin@ellify.xyz>"
 
 LABEL "com.github.actions.name"="DNSControl Action"
